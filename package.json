@@ -1,0 +1,19 @@
+{
+  "name": "model-lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "course": "ts-node course/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "openai": "^4.103.0"
+  },
+  "description": ""
+}
